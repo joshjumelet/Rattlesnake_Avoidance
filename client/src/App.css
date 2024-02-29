@@ -1,1 +1,177 @@
+.title {
+  text-align: center;
+  font: .75em sans-serif;
+}
 
+h1 {
+  color: black;
+  font-size: 15px;
+}
+
+.nav-container {
+  width: auto;
+  padding: .5em;
+  background: black;
+  border-radius: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link {
+  color: white;
+  padding: 20px 15px;
+  text-decoration: none;
+  font: 1.15em sans-serif;
+  font-weight: bolder;
+}
+
+.nav-link:hover {
+  color: rgb(255, 230, 0)
+}
+
+.overview-container {
+  width: auto;
+  padding: .25em;
+  margin-top: .5em;
+  border-radius: 15px;
+  letter-spacing: 1px;
+  font: 1em sans-serif;
+}
+
+.overview-page {
+  width: auto;
+  padding: .5em;
+  margin-top: 1em;
+  color: white;
+  background: black;
+  border-radius: 15px;
+  letter-spacing: 1px;
+  /* text-transform: uppercase; */
+}
+
+.overview-title {
+  margin-left: 1em;
+}
+
+.overview-body {
+  margin-left: 1em;
+}
+
+.titles {
+  -webkit-text-stroke-width: .30px;
+  -webkit-text-stroke-color: rgb(255, 230, 0);
+  font-style: oblique;
+}
+
+.phone {
+  color:rgb(255, 230, 0);
+  font-style: italic;
+  text-decoration: none;
+}
+
+.about-container {
+  width: auto;
+  padding: .25em;
+  margin-top: .5em;
+  border-radius: 15px;
+  letter-spacing: 1px;
+  font: 1em sans-serif;
+}
+
+.about-page {
+  width: auto;
+  padding: .5em;
+  margin-top: 1em;
+  color: white;
+  background: black;
+  border-radius: 15px;
+  letter-spacing: 1px;
+}
+
+.about-title {
+  margin-left: 1em;
+}
+
+.about-body {
+  margin-left: 1em;
+}
+
+.location-grid {
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  background-color: black;
+  width: 99.5%;
+  padding: .25em;
+  margin-top: 1.75em;
+  column-gap: 50px;
+  color: white;
+  border-radius: 15px;
+  font: 1em sans-serif;
+}
+
+.left-side {
+  display: grid;
+  grid: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.contacts-info {
+  text-align: center;
+  margin: 20px;
+}
+
+.right-side {
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-title {
+  -webkit-text-stroke-width: .30px;
+  -webkit-text-stroke-color: rgb(255, 230, 0);
+  margin-top: -1em;
+}
+
+.location-img {
+  width: 45px;
+  height: 45px;
+  border-radius: 25%;
+}
+
+.phone-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 25%;
+}
+
+.contact-link {
+  text-decoration: none;
+  color: white;
+  font-style: italic;
+}
+
+.map {
+  border: 2px solid rgb(255, 230, 0);
+  border-radius: 5%;
+}
+
+.end {
+  margin-top: 10em;
+  padding: .75em;
+  text-align: right;
+  font: 1em sans-serif;
+}
+
+@media screen and (max-width: 480px) {
+  .App {
+    width: auto;
+    margin: 5px 5px;
+  }
+}
