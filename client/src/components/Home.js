@@ -8,9 +8,8 @@ const Home = () => {
         <div className="img-container">
           <img
             className="home-logo"
-            src="https://i.imgur.com/l4xW0mD.jpg"
+            src="https://i.imgur.com/2tyh5BY.jpeg"
             alt="Rattlesnake & Toad Avoidance Training"
-            width="500"
           />
         </div>
         <h1>6407 N 82nd Way</h1>
@@ -26,13 +25,13 @@ const Home = () => {
           </div>
           <div className="overview-body">
             <p>
-              DesertCanine Rattlesnake & Toad Avoidance Training is a premier
-              dog training enterprise based in Scottsdale, Arizona, dedicated to
-              ensuring the safety of your canine companions amidst the unique
-              desert environment. With a focus on rattlesnake and toad
-              avoidance, we specialize in providing personalized training
-              programs for dogs to navigate the distinctive challenges posed by
-              Arizona's wildlife.
+              Desert Canine AZ - Rattlesnake & Toad Avoidance Training is a
+              premier dog training enterprise located in Scotsdale, Arizona.
+              We're dedicated to ensuring the safety of your canine companions
+              amidst the unique desert environment. With a focus on rattlesnake
+              and toad avoidance, we specialize in providing personalized
+              training programs for dogs to navigate the distinctive challenges
+              posed by Arizona's wildlife.
             </p>
           </div>
         </div>
@@ -45,7 +44,7 @@ const Home = () => {
               We offer exclusive one-on-one training sessions at our Scotsdale
               location. The fee for this personalized session is $80 per dog.
               Retests at the Scotsdale site are available at a fee of $40 per
-              dog. Our trainers leverage our years of experience to tailor these
+              dog. Our trainers leverage years of experience to tailor these
               sessions to meet the specific needs of your canine companion.
             </p>
           </div>
@@ -83,10 +82,10 @@ const Home = () => {
           </div>
           <div className="overview-body">
             <p>
-              For clients outside our Scotsdale facility, we offer on-site
-              training at a cost of $80 per dog, with a minimum requirement of
-              12-15 dogs. Retests at a non-Scotsdale site are available for $40
-              per dog, ensuring the ongoing effectiveness of the training.
+              For clients outside our Scotsdale facility, we offer off-site
+              training at a cost of $160 for the first dog and $80 for every
+              additonal dog. Retests at an off-site location are available for
+              $80 per dog, ensuring the ongoing effectiveness of the training.
             </p>
           </div>
         </div>
@@ -108,9 +107,9 @@ const Home = () => {
               clients.
             </p>
             <p>
-              At DesertCanine Rattlesnake & Toad Avoidance Training, we are
-              dedicated to instilling essential avoidance skills in your dogs,
-              promoting their safety and well-being in Arizona's unique
+              At Desert Canine AZ - Rattlesnake & Toad Avoidance Training, we
+              are dedicated to instilling essential avoidance skills in your
+              dogs, promoting their safety and well-being in Arizona's unique
               environment.
             </p>
           </div>

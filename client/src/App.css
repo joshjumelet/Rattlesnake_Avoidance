@@ -53,7 +53,6 @@ h1 {
   background: black;
   border-radius: 15px;
   letter-spacing: 1px;
-  /* text-transform: uppercase; */
 }
 
 .overview-title {
@@ -169,9 +168,83 @@ h1 {
   font: 1em sans-serif;
 }
 
+.home-logo {
+  width: 450px;
+}
+
+h5 {
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 480px) {
-  .App {
-    width: auto;
-    margin: 5px 5px;
+
+  .title-logo {
+    background-color: white;
+    padding-top: 1em;
   }
+
+  .title {
+    color: white;
+    text-align: center;
+  }
+
+  .h1 {
+    color: white;
+    font-size: 5px;
+  }
+
+  .nav-container {
+    width: auto;
+  }
+
+  .nav-container {
+    width: auto;
+    font-size: .8em;
+    margin-left: .3em;
+    margin-right: .3em;
+  }
+
+  .nav-link {
+    padding: 10px 5px;
+  }
+
+  .background-mobile {
+    background-color: white;
+  }
+
+  .location-overview {
+    background-color: white;
+    width: auto;
+    margin-left: .25em;
+    margin-right: .25em;
+  }
+
+  .location-grid {
+    display: inline;
+    grid-template-rows: auto auto;
+    background-color: white;
+  }
+
+  .left-side {
+    background-color: black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+
+  .right-side {
+    background-color: black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+
+  .map {
+    width: 230px;
+    height: 200px;
+    padding: .2em;
+  }
+
+  .title-logo {
+    margin-bottom: .75em;
+  }
+
 }

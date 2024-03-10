@@ -8,9 +8,8 @@ const About = () => {
         <div className="img-container">
           <img
             className="home-logo"
-            src="https://i.imgur.com/l4xW0mD.jpg"
+            src="https://i.imgur.com/2tyh5BY.jpeg"
             alt="Rattlesnake & Toad Avoidance Training"
-            width="500"
           />
         </div>
         <h1>6407 N 82nd Way</h1>
@@ -27,11 +26,11 @@ const About = () => {
           <div className="about-body">
             <p>
               We employ live rattlesnakes in our training regimen to effectively
-              teach your dog to steer clear of them. This approach is essential
-              because nothing mimics the scent of a live rattlesnake quite like
-              the real thing. Using deceased frozen snakes wouldn't yield the
-              same results, as your dog would learn to avoid any lifeless snake
-              encountered in the desert.
+              teach your dog proper avoidance of them. This approach is
+              essential as nothing mimics the scent of a live rattlesnake quite
+              like the real thing. Using deceased frozen snakes wouldn't yield
+              the same results, as your dog would learn to avoid any lifeless
+              snake encountered in the desert.
             </p>
             <p>
               Arizona boasts the highest diversity of rattlesnake species in the
@@ -81,18 +80,21 @@ const About = () => {
             </p>
             <p>
               For off-site training sessions held at locations other than our
-              Scotsdale facility, such as for dog clubs, organizations, or
-              public events, the cost remains $80 per dog. However, these
-              sessions typically require a minimum number of dogs, typically
-              ranging from 12 to 15. Off-site training involves small group
-              classes, accommodating around 6 to 10 dogs per group. Should
-              retests be necessary at these off-site locations, the fee remains
-              $40 per dog. It's important to note that all training sessions are
-              conducted by appointment only.
+              Scotsdale facility, such as for dog clubs and organizations the
+              cost remains $80 per dog. However, these sessions typically
+              require a minimum number of dogs, typically ranging from 12 to 15
+              (please contact us for more details on large group scheduling).
+              Should retests be necessary at these off-site locations, the fee
+              remains $40 per dog. It's important to note that all training
+              sessions are conducted by appointment only.
             </p>
             <h4>Training Fee:</h4>
+            <h5>Scotsdale Location:</h5>
             <p>$80 per new dog</p>
             <p>$40 per retest</p>
+            <h5>Off-Site Location:</h5>
+            <p>$160 for first dog + $80 per add additonal dog</p>
+            <p>$80 per retest</p>
           </div>
         </div>
         <div className="about-page">
@@ -112,9 +114,9 @@ const About = () => {
             </p>
             <p>
               Nevertheless, post-training, the likelihood of avoiding such
-              incidents is greatly enhanced in favor of the dog. To uphold our
-              commitment to providing this invaluable service to dog owners, we
-              require all clients to sign a waiver of liability form.
+              incidents is greatly enhanced. To uphold our commitment to
+              providing this invaluable service to dog owners, we require all
+              clients to sign a waiver of liability form.
             </p>
             <p>
               To schedule your training session, please contact us at
