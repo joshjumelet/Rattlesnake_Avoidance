@@ -60,6 +60,7 @@ const Contact = () => {
           <div className="right-side">
             <div>
               <iframe
+                title="Google"
                 className="map"
                 width="520"
                 height="400"
