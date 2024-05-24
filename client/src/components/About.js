@@ -13,7 +13,7 @@ const About = () => {
           />
         </div>
         <h1>6407 N 82nd Way</h1>
-        <h1>Scotsdale, AZ 85250</h1>
+        <h1>Scottsdale, AZ 85250</h1>
       </div>
       <div className="navbar">
         <NavBar />
@@ -73,14 +73,14 @@ const About = () => {
           </div>
           <div className="about-body">
             <p>
-              Training conducted at our Scotsdale facility is priced at $80 per
+              Training conducted at our Scottsdale facility is priced at $80 per
               dog, ensuring individualized attention as sessions are one-on-one
               with just you and your dog(s). Yearly retests, scheduled after the
               initial year, incur a fee of $40 per dog.
             </p>
             <p>
               For off-site training sessions held at locations other than our
-              Scotsdale facility, such as for dog clubs and organizations the
+              Scottsdale facility, such as for dog clubs and organizations the
               cost remains $80 per dog. However, these sessions typically
               require a minimum number of dogs, typically ranging from 12 to 15
               (please contact us for more details on large group scheduling).
@@ -89,7 +89,7 @@ const About = () => {
               sessions are conducted by appointment only.
             </p>
             <h4>Training Fee:</h4>
-            <h5>Scotsdale Location:</h5>
+            <h5>Scottsdale Location:</h5>
             <p>$80 per new dog</p>
             <p>$40 per retest</p>
             <h5>Off-Site Location:</h5>

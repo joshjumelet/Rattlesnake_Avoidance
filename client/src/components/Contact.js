@@ -14,7 +14,7 @@ const Contact = () => {
             />
           </div>
           <h1>6407 N 82nd Way</h1>
-          <h1>Scotsdale, AZ 85250</h1>
+          <h1>Scottsdale, AZ 85250</h1>
         </div>
         <div className="navbar">
           <NavBar />
@@ -37,7 +37,7 @@ const Contact = () => {
               <div className="contacts-info">
                 <p className="contacts-title">Location</p>
                 <address className="contact-link">
-                  6407 N 82nd Way, Scotsdale, AZ 85250
+                  6407 N 82nd Way, Scottsdale, AZ 85250
                 </address>
               </div>
             </div>

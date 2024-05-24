@@ -13,7 +13,7 @@ const Home = () => {
           />
         </div>
         <h1>6407 N 82nd Way</h1>
-        <h1>Scotsdale, AZ 85250</h1>
+        <h1>Scottsdale, AZ 85250</h1>
       </div>
       <div className="navbar">
         <NavBar />
@@ -26,7 +26,7 @@ const Home = () => {
           <div className="overview-body">
             <p>
               Desert Canine AZ - Rattlesnake & Toad Avoidance Training is a
-              premier dog training enterprise located in Scotsdale, Arizona.
+              premier dog training enterprise located in Scottsdale, Arizona.
               We're dedicated to ensuring the safety of your canine companions
               amidst the unique desert environment. With a focus on rattlesnake
               and toad avoidance, we specialize in providing personalized
@@ -37,13 +37,13 @@ const Home = () => {
         </div>
         <div className="overview-page">
           <div className="overview-title">
-            <h3 className="titles">One-on-One Training Sessions: Scotsdale</h3>
+            <h3 className="titles">One-on-One Training Sessions: Scottsdale</h3>
           </div>
           <div className="overview-body">
             <p>
               We offer exclusive one-on-one training sessions at our Scotsdale
               location. The fee for this personalized session is $80 per dog.
-              Retests at the Scotsdale site are available at a fee of $40 per
+              Retests at the Scottsdale site are available at a fee of $40 per
               dog. Our trainers leverage years of experience to tailor these
               sessions to meet the specific needs of your canine companion.
             </p>
@@ -82,7 +82,7 @@ const Home = () => {
           </div>
           <div className="overview-body">
             <p>
-              For clients outside our Scotsdale facility, we offer off-site
+              For clients outside our Scottsdale facility, we offer off-site
               training at a cost of $160 for the first dog and $80 for every
               additonal dog. Retests at an off-site location are available for
               $80 per dog, ensuring the ongoing effectiveness of the training.
