@@ -247,4 +247,9 @@ h5 {
     margin-bottom: .75em;
   }
 
+  .home-logo {
+    width: 250px;
+    height: 250px;
+  }
+
 }
