@@ -41,7 +41,7 @@ const Home = () => {
           </div>
           <div className="overview-body">
             <p>
-              We offer exclusive one-on-one training sessions at our Scotsdale
+              We offer exclusive one-on-one training sessions at our Scottsdale
               location. The fee for this personalized session is $80 per dog.
               Retests at the Scottsdale site are available at a fee of $40 per
               dog. Our trainers leverage years of experience to tailor these
