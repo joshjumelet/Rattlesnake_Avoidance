@@ -12,7 +12,7 @@ const About = () => {
             alt="Rattlesnake & Toad Avoidance Training"
           />
         </div>
-        <h1>6614 E. Morning Vista Dr.</h1>
+        <h1>6614 E. Morning Vista Ln.</h1>
         <h1>Scottsdale, AZ 85266</h1>
       </div>
       <div className="navbar">

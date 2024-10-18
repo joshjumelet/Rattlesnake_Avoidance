@@ -13,7 +13,7 @@ const Contact = () => {
               alt="Rattlesnake & Toad Avoidance Training"
             />
           </div>
-          <h1>6614 E. Morning Vista Dr</h1>
+          <h1>6614 E. Morning Vista Ln.</h1>
           <h1>Scottsdale, AZ 85266</h1>
         </div>
         <div className="navbar">
@@ -37,7 +37,7 @@ const Contact = () => {
               <div className="contacts-info">
                 <p className="contacts-title">Location</p>
                 <address className="contact-link">
-                  6614 E. Morning Vista Dr. Scottsdale, AZ 85266
+                  6614 E. Morning Vista Ln. Scottsdale, AZ 85266
                 </address>
               </div>
             </div>
@@ -68,7 +68,7 @@ const Contact = () => {
                 scrolling="no"
                 marginheight="0"
                 marginwidth="0"
-                src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=6614%20E.%20Morning%20Vista%20Dr.%20Scottsdale,%20AZ%2085266+(Desert%20Canine%20AZ)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+                src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=6614%20E.%20Morning%20Vista%20Ln.%20Scottsdale,%20AZ%2085266+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
               >
                 <a href="https://www.gps.ie/">gps trackers</a>
               </iframe>
