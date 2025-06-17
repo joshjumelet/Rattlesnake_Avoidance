@@ -13,7 +13,7 @@ const Home = () => {
           />
         </div>
         <h1>6614 E. Morning Vista Ln.</h1>
-        <h1>Scottsdale, AZ 85250</h1>
+        <h1>Scottsdale, AZ 85266</h1>
       </div>
       <div className="navbar">
         <NavBar />
@@ -42,8 +42,8 @@ const Home = () => {
           <div className="overview-body">
             <p>
               We offer exclusive one-on-one training sessions at our Scottsdale
-              location. The fee for this personalized session is $80 per dog.
-              Retests at the Scottsdale site are available at a fee of $40 per
+              location. The fee for this personalized session is $100 per dog.
+              Retests at the Scottsdale site are available at a fee of $50 per
               dog. Our trainers leverage years of experience to tailor these
               sessions to meet the specific needs of your canine companion.
             </p>

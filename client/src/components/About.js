@@ -73,25 +73,25 @@ const About = () => {
           </div>
           <div className="about-body">
             <p>
-              Training conducted at our Scottsdale facility is priced at $80 per
-              dog, ensuring individualized attention as sessions are one-on-one
-              with just you and your dog(s). Yearly retests, scheduled after the
-              initial year, incur a fee of $40 per dog.
+              Training conducted at our Scottsdale facility is priced at $100
+              per dog, ensuring individualized attention as sessions are
+              one-on-one with just you and your dog(s). Yearly retests,
+              scheduled after the initial training, incur a fee of $50 per dog.
             </p>
             <p>
-              For off-site training sessions held at locations other than our
-              Scottsdale facility, such as for dog clubs and organizations the
-              cost remains $80 per dog. However, these sessions typically
+              For off-site group training sessions held at locations other than
+              our Scottsdale facility, such as dog clubs and organizations the
+              cost remains $100 per dog. However, these sessions typically
               require a minimum number of dogs, typically ranging from 12 to 15
               (please contact us for more details on large group scheduling).
               Should retests be necessary at these off-site locations, the fee
-              remains $40 per dog. It's important to note that all training
+              remains $50 per dog. It's important to note that all training
               sessions are conducted by appointment only.
             </p>
             <h4>Training Fee:</h4>
             <h5>Scottsdale Location:</h5>
-            <p>$80 per new dog</p>
-            <p>$40 per retest</p>
+            <p>$100 per new dog</p>
+            <p>$50 per retest</p>
             <h5>Off-Site Location:</h5>
             <p>$160 for first dog + $80 per add additonal dog</p>
             <p>$80 per retest</p>
