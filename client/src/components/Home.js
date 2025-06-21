@@ -78,15 +78,15 @@ const Home = () => {
         </div>
         <div className="overview-page">
           <div className="overview-title">
-            <h3 className="titles">On-Site Training in Other Locations:</h3>
+            <h3 className="titles">Offsite Training:</h3>
           </div>
           <div className="overview-body">
             <p>
               For clients outside our Scottsdale facility, we offer off-site
-              training at a cost of $160 for the first dog and $80 for every
-              additonal dog. Retests at an off-site location are available for
-              $80 per dog, ensuring the ongoing effectiveness of the training.
+              training at a cost of $200 for the first dog and $80 for every
+              additonal dog.
             </p>
+            <p>Please contact us directly for offsite group rates</p>
           </div>
         </div>
         <div className="overview-page">
@@ -102,7 +102,7 @@ const Home = () => {
                   (602) 469-3441
                 </a>
               </span>
-              . We accept payments in the form of cash, checks, or Zelle,
+              . We accept payments in the form of cash, checks, Zelle, and Venmo
               providing a seamless and secure transaction process for our valued
               clients.
             </p>
