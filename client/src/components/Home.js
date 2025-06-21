@@ -78,7 +78,7 @@ const Home = () => {
         </div>
         <div className="overview-page">
           <div className="overview-title">
-            <h3 className="titles">Offsite Training:</h3>
+            <h3 className="titles">Off-Site Training:</h3>
           </div>
           <div className="overview-body">
             <p>
@@ -86,7 +86,7 @@ const Home = () => {
               training at a cost of $200 for the first dog and $80 for every
               additonal dog.
             </p>
-            <p>Please contact us directly for offsite group rates</p>
+            <p>Please contact us directly for off-site group rates.</p>
           </div>
         </div>
         <div className="overview-page">
